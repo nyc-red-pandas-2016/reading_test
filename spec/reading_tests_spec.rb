@@ -1,4 +1,4 @@
-require_relative '../test.rb'
+require_relative '../reading_tests.rb'
 
 describe "word_count" do
   it "returns number of words in a string" do
