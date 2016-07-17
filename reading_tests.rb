@@ -3,7 +3,6 @@ def word_count(string)
 end
 
 def average_word_length(string)
-    # string.split(' ').join('').length.to_f / word_count(string) if string != ''
   if string == ""
     return nil
   else
