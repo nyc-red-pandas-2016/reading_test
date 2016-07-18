@@ -1,16 +1,16 @@
+require 'pry'
+
 def word_count(string)
   string.split.length
 end
 
 def average_word_length(string)
-    # string.split(' ').join('').length.to_f / word_count(string) if string != ''
-  if string == ""
-    return nil
-  else
-    string.split(" ") {|word| word.length.to_f / word_count(string)}
-  end
-  
+  return nil if string == ""
+    word_length = 0.0
+    string.split(" ").each {|word| word_length += word.length.to_f }
+    word_length / word_count(string)
 end
+
 
 def palindrome?(string)
   return true if string.reverse == string
@@ -18,16 +18,14 @@ def palindrome?(string)
 end
 
 def vowels(str)
-  # vowel_array = []
-  # str.split(" ").each do |word|
-  #   # if word.include?(/\D+/) == true
-  #     vowel_array << word.to_s
-  #   end
-  # end
+  vowel_array = []
+  str.split(" ").map {|word| vowel_array << word.match(/[aeiou]/)}
+    # if word.include?(/\D+/) == true
+      # vowel_array << word.to_s
 end
 
 def start_with_c?(str)
-  # str.split.map{|word| word.include?("c")}.join(' ')
+  return false if str.split.map{|word| !word.start_with?("c")}.join(' ')
 end
 
 def titlecase(str)
