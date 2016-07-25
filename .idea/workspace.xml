@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="406f1279-7efd-4d35-9f3f-a5d370dc9335" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/cache/diff-lcs-1.2.5.gem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/cache/rspec-3.4.0.gem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/cache/rspec-core-3.4.4.gem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/cache/rspec-expectations-3.4.0.gem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/cache/rspec-mocks-3.4.1.gem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/cache/rspec-support-3.4.1.gem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/diff-lcs-1.2.5/.gemtest" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.bundle/config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/reading_test.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/bin/htmldiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/bin/ldiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/bin/rspec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/diff-lcs-1.2.5/.autotest" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/diff-lcs-1.2.5/.hoerc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/diff-lcs-1.2.5/.rspec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/diff-lcs-1.2.5/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/diff-lcs-1.2.5/Contributing.rdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/diff-lcs-1.2.5/Gemfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/diff-lcs-1.2.5/History.rdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/diff-lcs-1.2.5/License.rdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/diff-lcs-1.2.5/Manifest.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/diff-lcs-1.2.5/README.rdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/diff-lcs-1.2.5/Rakefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/diff-lcs-1.2.5/autotest/discover.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/diff-lcs-1.2.5/bin/htmldiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/diff-lcs-1.2.5/bin/ldiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/diff-lcs-1.2.5/docs/COPYING.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/diff-lcs-1.2.5/docs/artistic.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/diff-lcs-1.2.5/lib/diff-lcs.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/diff-lcs-1.2.5/lib/diff/lcs.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/diff-lcs-1.2.5/lib/diff/lcs/array.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/diff-lcs-1.2.5/lib/diff/lcs/block.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/diff-lcs-1.2.5/lib/diff/lcs/callbacks.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/diff-lcs-1.2.5/lib/diff/lcs/change.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/diff-lcs-1.2.5/lib/diff/lcs/htmldiff.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/diff-lcs-1.2.5/lib/diff/lcs/hunk.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/diff-lcs-1.2.5/lib/diff/lcs/internals.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/diff-lcs-1.2.5/lib/diff/lcs/ldiff.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/diff-lcs-1.2.5/lib/diff/lcs/string.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/diff-lcs-1.2.5/spec/change_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/diff-lcs-1.2.5/spec/diff_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/diff-lcs-1.2.5/spec/hunk_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/diff-lcs-1.2.5/spec/issues_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/diff-lcs-1.2.5/spec/lcs_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/diff-lcs-1.2.5/spec/patch_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/diff-lcs-1.2.5/spec/sdiff_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/diff-lcs-1.2.5/spec/spec_helper.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/diff-lcs-1.2.5/spec/traverse_balanced_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/diff-lcs-1.2.5/spec/traverse_sequences_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-3.4.0/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-3.4.0/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-3.4.0/lib/rspec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-3.4.0/lib/rspec/version.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/.document" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/.yardopts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/Changelog.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/exe/rspec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/autorun.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/backtrace_formatter.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/bisect/coordinator.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/bisect/example_minimizer.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/bisect/runner.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/bisect/server.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/configuration.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/configuration_options.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/drb.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/dsl.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/example.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/example_group.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/example_status_persister.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/filter_manager.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/flat_map.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/formatters.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/formatters/base_formatter.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/formatters/base_text_formatter.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/formatters/bisect_formatter.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/formatters/bisect_progress_formatter.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/formatters/console_codes.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/formatters/deprecation_formatter.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/formatters/documentation_formatter.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/formatters/exception_presenter.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/formatters/fallback_message_formatter.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/formatters/helpers.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/formatters/html_formatter.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/formatters/html_printer.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/formatters/html_snippet_extractor.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/formatters/json_formatter.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/formatters/profile_formatter.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/formatters/progress_formatter.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/formatters/protocol.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/formatters/snippet_extractor.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/hooks.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/memoized_helpers.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/metadata.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/metadata_filter.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/minitest_assertions_adapter.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/mocking_adapters/flexmock.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/mocking_adapters/mocha.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/mocking_adapters/null.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/mocking_adapters/rr.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/mocking_adapters/rspec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/notifications.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/option_parser.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/ordering.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/pending.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/profiler.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/project_initializer.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/project_initializer/.rspec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/project_initializer/spec/spec_helper.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/rake_task.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/reporter.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/ruby_project.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/runner.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/sandbox.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/set.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/shared_context.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/shared_example_group.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/shell_escape.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/source.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/source/location.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/source/node.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/source/syntax_highlighter.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/source/token.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/test_unit_assertions_adapter.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/version.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/warnings.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-core-3.4.4/lib/rspec/core/world.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-expectations-3.4.0/.document" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-expectations-3.4.0/.yardopts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-expectations-3.4.0/Changelog.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-expectations-3.4.0/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-expectations-3.4.0/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-expectations-3.4.0/lib/rspec/expectations.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-expectations-3.4.0/lib/rspec/expectations/configuration.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-expectations-3.4.0/lib/rspec/expectations/expectation_target.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-expectations-3.4.0/lib/rspec/expectations/fail_with.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-expectations-3.4.0/lib/rspec/expectations/failure_aggregator.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-expectations-3.4.0/lib/rspec/expectations/handler.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-expectations-3.4.0/lib/rspec/expectations/minitest_integration.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-expectations-3.4.0/lib/rspec/expectations/syntax.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-expectations-3.4.0/lib/rspec/expectations/version.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-expectations-3.4.0/lib/rspec/matchers.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-expectations-3.4.0/lib/rspec/matchers/aliased_matcher.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-expectations-3.4.0/lib/rspec/matchers/built_in.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-expectations-3.4.0/lib/rspec/matchers/built_in/all.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-expectations-3.4.0/lib/rspec/matchers/built_in/base_matcher.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-expectations-3.4.0/lib/rspec/matchers/built_in/be.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-expectations-3.4.0/lib/rspec/matchers/built_in/be_between.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-expectations-3.4.0/lib/rspec/matchers/built_in/be_instance_of.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-expectations-3.4.0/lib/rspec/matchers/built_in/be_kind_of.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-expectations-3.4.0/lib/rspec/matchers/built_in/be_within.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-expectations-3.4.0/lib/rspec/matchers/built_in/change.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-expectations-3.4.0/lib/rspec/matchers/built_in/compound.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-expectations-3.4.0/lib/rspec/matchers/built_in/contain_exactly.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-expectations-3.4.0/lib/rspec/matchers/built_in/cover.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-expectations-3.4.0/lib/rspec/matchers/built_in/eq.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-expectations-3.4.0/lib/rspec/matchers/built_in/eql.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-expectations-3.4.0/lib/rspec/matchers/built_in/equal.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-expectations-3.4.0/lib/rspec/matchers/built_in/exist.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-expectations-3.4.0/lib/rspec/matchers/built_in/has.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-expectations-3.4.0/lib/rspec/matchers/built_in/have_attributes.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-expectations-3.4.0/lib/rspec/matchers/built_in/include.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-expectations-3.4.0/lib/rspec/matchers/built_in/match.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-expectations-3.4.0/lib/rspec/matchers/built_in/operators.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-expectations-3.4.0/lib/rspec/matchers/built_in/output.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-expectations-3.4.0/lib/rspec/matchers/built_in/raise_error.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-expectations-3.4.0/lib/rspec/matchers/built_in/respond_to.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-expectations-3.4.0/lib/rspec/matchers/built_in/satisfy.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-expectations-3.4.0/lib/rspec/matchers/built_in/start_or_end_with.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-expectations-3.4.0/lib/rspec/matchers/built_in/throw_symbol.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-expectations-3.4.0/lib/rspec/matchers/built_in/yield.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-expectations-3.4.0/lib/rspec/matchers/composable.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-expectations-3.4.0/lib/rspec/matchers/dsl.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-expectations-3.4.0/lib/rspec/matchers/english_phrasing.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-expectations-3.4.0/lib/rspec/matchers/expecteds_for_multiple_diffs.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-expectations-3.4.0/lib/rspec/matchers/fail_matchers.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-expectations-3.4.0/lib/rspec/matchers/generated_descriptions.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-expectations-3.4.0/lib/rspec/matchers/matcher_delegator.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-expectations-3.4.0/lib/rspec/matchers/matcher_protocol.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-mocks-3.4.1/.document" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-mocks-3.4.1/.yardopts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-mocks-3.4.1/Changelog.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-mocks-3.4.1/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-mocks-3.4.1/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-mocks-3.4.1/lib/rspec/mocks.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-mocks-3.4.1/lib/rspec/mocks/any_instance.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-mocks-3.4.1/lib/rspec/mocks/any_instance/chain.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-mocks-3.4.1/lib/rspec/mocks/any_instance/error_generator.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-mocks-3.4.1/lib/rspec/mocks/any_instance/expect_chain_chain.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-mocks-3.4.1/lib/rspec/mocks/any_instance/expectation_chain.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-mocks-3.4.1/lib/rspec/mocks/any_instance/message_chains.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-mocks-3.4.1/lib/rspec/mocks/any_instance/proxy.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-mocks-3.4.1/lib/rspec/mocks/any_instance/recorder.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-mocks-3.4.1/lib/rspec/mocks/any_instance/stub_chain.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-mocks-3.4.1/lib/rspec/mocks/any_instance/stub_chain_chain.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-mocks-3.4.1/lib/rspec/mocks/argument_list_matcher.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-mocks-3.4.1/lib/rspec/mocks/argument_matchers.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-mocks-3.4.1/lib/rspec/mocks/configuration.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-mocks-3.4.1/lib/rspec/mocks/error_generator.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-mocks-3.4.1/lib/rspec/mocks/example_methods.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-mocks-3.4.1/lib/rspec/mocks/instance_method_stasher.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-mocks-3.4.1/lib/rspec/mocks/marshal_extension.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-mocks-3.4.1/lib/rspec/mocks/matchers/expectation_customization.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-mocks-3.4.1/lib/rspec/mocks/matchers/have_received.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-mocks-3.4.1/lib/rspec/mocks/matchers/receive.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-mocks-3.4.1/lib/rspec/mocks/matchers/receive_message_chain.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-mocks-3.4.1/lib/rspec/mocks/matchers/receive_messages.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-mocks-3.4.1/lib/rspec/mocks/message_chain.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-mocks-3.4.1/lib/rspec/mocks/message_expectation.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-mocks-3.4.1/lib/rspec/mocks/method_double.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-mocks-3.4.1/lib/rspec/mocks/method_reference.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-mocks-3.4.1/lib/rspec/mocks/mutate_const.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-mocks-3.4.1/lib/rspec/mocks/object_reference.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-mocks-3.4.1/lib/rspec/mocks/order_group.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-mocks-3.4.1/lib/rspec/mocks/proxy.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-mocks-3.4.1/lib/rspec/mocks/space.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-mocks-3.4.1/lib/rspec/mocks/standalone.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-mocks-3.4.1/lib/rspec/mocks/syntax.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-mocks-3.4.1/lib/rspec/mocks/targets.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-mocks-3.4.1/lib/rspec/mocks/test_double.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-mocks-3.4.1/lib/rspec/mocks/verifying_double.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-mocks-3.4.1/lib/rspec/mocks/verifying_message_expectation.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-mocks-3.4.1/lib/rspec/mocks/verifying_proxy.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-mocks-3.4.1/lib/rspec/mocks/version.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-support-3.4.1/Changelog.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-support-3.4.1/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-support-3.4.1/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-support-3.4.1/lib/rspec/support.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-support-3.4.1/lib/rspec/support/caller_filter.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-support-3.4.1/lib/rspec/support/comparable_version.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-support-3.4.1/lib/rspec/support/differ.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-support-3.4.1/lib/rspec/support/directory_maker.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-support-3.4.1/lib/rspec/support/encoded_string.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-support-3.4.1/lib/rspec/support/fuzzy_matcher.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-support-3.4.1/lib/rspec/support/hunk_generator.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-support-3.4.1/lib/rspec/support/matcher_definition.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-support-3.4.1/lib/rspec/support/method_signature_verifier.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-support-3.4.1/lib/rspec/support/mutex.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-support-3.4.1/lib/rspec/support/object_formatter.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-support-3.4.1/lib/rspec/support/recursive_const_methods.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-support-3.4.1/lib/rspec/support/reentrant_mutex.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-support-3.4.1/lib/rspec/support/ruby_features.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-support-3.4.1/lib/rspec/support/spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-support-3.4.1/lib/rspec/support/spec/deprecation_helpers.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-support-3.4.1/lib/rspec/support/spec/formatting_support.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-support-3.4.1/lib/rspec/support/spec/in_sub_process.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-support-3.4.1/lib/rspec/support/spec/library_wide_checks.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-support-3.4.1/lib/rspec/support/spec/shell_out.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-support-3.4.1/lib/rspec/support/spec/stderr_splitter.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-support-3.4.1/lib/rspec/support/spec/string_matcher.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-support-3.4.1/lib/rspec/support/spec/with_isolated_directory.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-support-3.4.1/lib/rspec/support/spec/with_isolated_stderr.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-support-3.4.1/lib/rspec/support/version.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-support-3.4.1/lib/rspec/support/version_checker.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/gems/rspec-support-3.4.1/lib/rspec/support/warnings.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/specifications/diff-lcs-1.2.5.gemspec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/specifications/rspec-3.4.0.gemspec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/specifications/rspec-core-3.4.4.gemspec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/specifications/rspec-expectations-3.4.0.gemspec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/specifications/rspec-mocks-3.4.1.gemspec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gems/specifications/rspec-support-3.4.1.gemspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reading_tests.rb" afterPath="$PROJECT_DIR$/reading_tests.rb" />
+    </list>
+    <ignored path="reading_test.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/reading_test@Run_spec__reading_tests_spec___reading_test.coverage" NAME="Run spec 'reading_tests_spec': reading_test Coverage Results" MODIFIED="1469419186455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="reading_test" />
+    <SUITE FILE_PATH="coverage/reading_test@reading_tests.coverage" NAME="reading_tests Coverage Results" MODIFIED="1469415120153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="reading_test" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="reading_test" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="enumerable.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/enumerable.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reading_tests.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/reading_tests.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="169">
+              <caret line="100" column="5" selection-start-line="100" selection-start-column="2" selection-end-line="100" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reading_tests_spec.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spec/reading_tests_spec.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-719">
+              <caret line="84" column="5" selection-start-line="84" selection-start-column="5" selection-end-line="84" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/reading_tests.rb" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="873" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reading_test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reading_test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reading_test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reading_test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reading_test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="RSpec.Run spec 'reading_tests_spec': reading_test">
+    <configuration default="false" name="Run spec 'reading_tests_spec': reading_test" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="reading_test" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/reading_tests_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="reading_tests" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="reading_test" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/reading_tests.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberRunConfigurationType" factoryName="Cucumber">
+      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
+      <module name="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="RSpecRunConfigurationType" factoryName="RSpec">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="RubyRunConfigurationType" factoryName="Ruby">
+      <module name="" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest">
+      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
+      <module name="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="RSpec.Run spec 'reading_tests_spec': reading_test" />
+      <item index="1" class="java.lang.String" itemvalue="Ruby.reading_tests" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="RSpec.Run spec 'reading_tests_spec': reading_test" />
+        <item index="1" class="java.lang.String" itemvalue="Ruby.reading_tests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="406f1279-7efd-4d35-9f3f-a5d370dc9335" name="Default" comment="" />
+      <created>1469414288245</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1469414288245</updated>
+      <workItem from="1469414291214" duration="4827000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Run_spec_'reading_tests_spec'__reading_test - 2016.07.24 at 23h 45m 30s.xml">
+      <configuration name="Run spec 'reading_tests_spec': reading_test" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Run_spec_'reading_tests_spec'__reading_test - 2016.07.24 at 23h 46m 00s.xml">
+      <configuration name="Run spec 'reading_tests_spec': reading_test" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Run_spec_'reading_tests_spec'__reading_test - 2016.07.24 at 23h 46m 12s.xml">
+      <configuration name="Run spec 'reading_tests_spec': reading_test" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Run_spec_'reading_tests_spec'__reading_test - 2016.07.24 at 23h 48m 23s.xml">
+      <configuration name="Run spec 'reading_tests_spec': reading_test" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Run_spec_'reading_tests_spec'__reading_test - 2016.07.24 at 23h 49m 30s.xml">
+      <configuration name="Run spec 'reading_tests_spec': reading_test" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Run_spec_'reading_tests_spec'__reading_test - 2016.07.24 at 23h 49m 39s.xml">
+      <configuration name="Run spec 'reading_tests_spec': reading_test" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Run_spec_'reading_tests_spec'__reading_test - 2016.07.24 at 23h 51m 11s.xml">
+      <configuration name="Run spec 'reading_tests_spec': reading_test" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Run_spec_'reading_tests_spec'__reading_test - 2016.07.24 at 23h 57m 05s.xml">
+      <configuration name="Run spec 'reading_tests_spec': reading_test" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Run_spec_'reading_tests_spec'__reading_test - 2016.07.24 at 23h 57m 29s.xml">
+      <configuration name="Run spec 'reading_tests_spec': reading_test" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Run_spec_'reading_tests_spec'__reading_test - 2016.07.24 at 23h 59m 46s.xml">
+      <configuration name="Run spec 'reading_tests_spec': reading_test" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4827000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="873" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15138888" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.50277776" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32891566" sideWeight="0.49722221" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/enumerable.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/reading_tests_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-719">
+          <caret line="84" column="5" selection-start-line="84" selection-start-column="5" selection-end-line="84" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reading_tests.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="100" column="5" selection-start-line="100" selection-start-column="2" selection-end-line="100" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
